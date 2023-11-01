@@ -1,10 +1,17 @@
-- Hi, I’m @ansonylopez
-- I’m interested in mobile development
-- I’m currently learning Ionic with Angular/React and express.js with node.js
-- I’m looking to collaborate on ionic framework projects or Angular.js projects
-- How to reach me by email ansonylopez@hotmail.com
+# Hi, I'm Ansony Lopez 👋
 
-<!---
-ansonylopez/ansonylopez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate developer with expertise in various technologies.
+
+- 🌟 5 years of experience in JavaScript
+- 🚀 4 years in Vue.js
+- ⚙️ 2 years in Ionic 6 with Angular 12
+- 💡 1 year with Node.js and Express
+- 💻 6 years in PHP using Laravel
+- 🐳 Proficient with Docker containers
+- 🔧 Follow SOLID principles and Hexagonal architecture
+
+🌱 Currently learning Ionic with Angular/React.
+
+💬 Let's collaborate on Ionic or Angular projects.
+
+📫 Reach me at [ansonylopez@hotmail.com](mailto:ansonylopez@hotmail.com)
