@@ -10,7 +10,7 @@ I'm a passionate developer with expertise in various technologies.
 - 🐳 Proficient with Docker containers
 - 🔧 Follow SOLID principles and Hexagonal architecture
 
-🌱 Currently learning Ionic with Angular/React.
+🌱 Improving skills in Node, Express, Angular, and Ionic with Angular/React.
 
 💬 Let's collaborate on Ionic or Angular projects.
 
