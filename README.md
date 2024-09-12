@@ -6,7 +6,7 @@ I'm a passionate developer with expertise in various technologies.
 - 🚀 4 years in Vue.js
 - ⚙️ 2 years in Ionic 6 with Angular 12
 - 💡 1 year with Node.js and Express
-- 💻 6 years in PHP using Laravel
+- 💻 7 years in PHP using Laravel
 - 🐳 Proficient with Docker containers
 - 🔧 Follow SOLID principles and Hexagonal architecture
 
